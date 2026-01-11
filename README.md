@@ -125,7 +125,3 @@ Time 0s: [*****] 5 tokens
 Time 1s: [*    ] 1 token refilled
          Request → allowed, 0 remaining
 ```
-
-## License
-
-MIT
