@@ -6,7 +6,7 @@
  */
 
 import express from 'express';
-import { createRateLimitMiddleware } from '../src/middleware';
+import { createRateLimitMiddleware } from '../dist/middleware';
 
 const app = express();
 const PORT = 3000;

@@ -4,7 +4,7 @@
  * Run with: npx ts-node examples/basic-usage.ts
  */
 
-import { RateLimiter } from '../src';
+import { RateLimiter } from '../dist';
 
 async function main() {
   // Create a rate limiter: 5 requests allowed, refills 1 token per second
